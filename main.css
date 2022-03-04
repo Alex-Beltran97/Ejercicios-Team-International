@@ -115,10 +115,9 @@ footer>div>span{
     }
     
 }
-/* @media (max-height:766px){
-    
-    li{
-        background-color: red;
-        width: 90%;
+@media (max-height:614px){
+    ul{
+        display: flex;
+        flex-direction: row;
     }
-} */
+}
