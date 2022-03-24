@@ -79,7 +79,7 @@ Card.addExercise(
 Card.addExercise(
     'React: Replica de testimonios en freeCodeCamp',
     'testimonies',
-    'https://magenta-bublanina-93472b.netlify.app/'
+    'https://replying-testimonies-freecodecamp.netlify.app/'
 );
 
 Card.showCard();
